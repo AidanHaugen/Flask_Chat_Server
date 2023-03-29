@@ -1,0 +1,23 @@
+body
+{
+    background-color: black;
+}
+
+p
+{
+    color: white;
+    word-break: break-all;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+
+#chatWindow
+{
+    overflow-y: scroll;
+    outline-color: white;
+    outline-style: solid;
+    outline-width: 3px;
+    height: 500px;
+}
